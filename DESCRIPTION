@@ -1,0 +1,10 @@
+Package: Rargs
+Type: Package
+Title: Input and Output helpers for R scripts.
+Version: 0.01
+Date: 2012-06-12
+Author: Romain Fenouil
+Maintainer: Romain Fenouil <fenouil@ciml.univ-mrs.fr>
+Description: This package provides input facilities for R scripts. In brief, it helps dealing with arguments passed to a script (via Rscript).
+License:  GPL
+LazyLoad: yes
